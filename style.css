@@ -1,0 +1,21 @@
+*{
+    border:solid
+}
+.header{
+background-color: aqua;
+}
+.footer{
+background-color: bisque;
+display:flex;
+justify-content:flex-end
+}
+.grid{
+background-color: #ADFC00;
+display: flex;
+flex-wrap:wrap ;
+justify-content: space-evenly;
+}
+p,h2{
+background-color: #ADFC00;
+text-align: center;
+}
